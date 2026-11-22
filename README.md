@@ -14,7 +14,7 @@ I'm a beginner developer, currently learning how to build websites from scratch.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://i.pinimg.com/736x/2a/29/b4/2a29b417adc867187681ba6b807ed31c.jpg)
+
 
 
 ---
