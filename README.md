@@ -1,7 +1,7 @@
 # Hi 👋
 
 
-![hi](https://v1.pinimg.com/videos/mc/720p/f9/d0/10/f9d010189e5592ac6d034b773f38006b.mp4)
+![hi](https://v1.pinimg.com/videos/mc/720p/f9/d0/10/f9d010189e5592ac6d034b773f38006b.jpeg)
 
 I'm a beginner developer, currently learning how to build websites from scratch.
 
